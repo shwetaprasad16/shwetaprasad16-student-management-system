@@ -1,0 +1,31 @@
+# Student Management System
+
+## Description
+This is a simple Python command line project to manage student records.
+User can add, show, search and delete students.
+
+## Features
+- Add Student
+- Show Students
+- Search Student
+- Delete Student
+
+## Requirements
+Python must be installed.
+
+## How to Run
+
+1. Open terminal
+2. Go to project folder
+3. Run command:
+
+python main.py
+
+## Files in Project
+
+main.py
+students.json
+README.md
+
+## Author
+shweta prasad
